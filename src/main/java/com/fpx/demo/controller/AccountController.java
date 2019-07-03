@@ -31,4 +31,5 @@ public class AccountController {
     public List<Account> listAllAccount() {
      return accountService.listAllAccount();
     }
+    
 }
